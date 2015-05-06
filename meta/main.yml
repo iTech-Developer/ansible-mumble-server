@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  author: "itech"
+  description: "Ansible role that installs and configures mumble server (http://mumble.sourceforge.net/)"
+  license: MIT
+  min_ansible_version: 1.6
+  platforms:
+    - name: Debian
+      versions:
+        - all
+  categories:
+    - networking
+dependencies: []
